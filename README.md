@@ -1,2 +1,2 @@
 # I2C
-Secondary I2C bus for AVR microcontrollers
+Secondary I2C bus driver for AVR microcontrollers
