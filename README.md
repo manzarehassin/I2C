@@ -1,5 +1,7 @@
 # Software I2C Master Library
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/manzarehassin/I2C/blob/main/LICENSE)
+
 A software-based I2C master-only implementation for Arduino and compatible microcontrollers (ESP8266, ESP32).
 
 ## Overview
